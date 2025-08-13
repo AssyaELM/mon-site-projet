@@ -1,3 +1,8 @@
+---
+layout: post
+title: Conception et Implémentation d'un Réseau de Gestion Hôtelière avec Packet Tracer
+---
+
 # Conception et Implémentation d'un Réseau de Gestion Hôtelière avec Packet Tracer
 
 ## Introduction au Projet
@@ -39,5 +44,3 @@ Router(config)#interface Serial0/3/0
 Router(config-if)#clock rate 64000
 Router(config-if)#exit
 Router(config)#do wr
-
-[Télécharger le fichier Packet Tracer](assets/projet-hotel.pkt)
